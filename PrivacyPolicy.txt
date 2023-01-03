@@ -1,0 +1,2 @@
+The Pod Manager app does not access or record any peronal information about the user of thier device. 
+The only files accessed are the program files and three json text files that are generated after to hold app state and settings
